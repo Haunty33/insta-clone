@@ -15,7 +15,7 @@
                 <div class="pr-5"><strong>212</strong> following</div>
             </div>
             <div class="pt-4 font-weight-bold">something.org</div>
-            <div>teksaidjfgouieaoijsdoijaoisjdoisajoidsjaiodjoiajosid</div>
+            <div>text text text text text text text text text</div>
             <div><a href="#">www.test.tests</a></div>
         </div>
     </div>
