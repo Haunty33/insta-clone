@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/instaclone/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/instaclone/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/instaclone/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/instaclone/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/instaclone/vendor/webmozart/assert" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
